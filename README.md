@@ -22,7 +22,7 @@ used Express.js to render a website with live API data.
 - Ejs
 
 
-### Links
+## Links
 * Solution URL - [Solution](https://github.com/iraklikutchiashvili/Node-Newsletter)
 * Live Site URL - [GitHub Live URL](https://elated-wasp-nightshirt.cyclic.app)
 
